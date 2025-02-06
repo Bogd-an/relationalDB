@@ -6,4 +6,4 @@
 
 
 
-<!-- chmod -R 777 ./pgdata -->
+<!-- sudo chmod -R 777 ./pgdata -->
